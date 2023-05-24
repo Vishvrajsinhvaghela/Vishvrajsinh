@@ -1,0 +1,55 @@
+
+                                                                          Week: 9
+
+Function: Protect; Classification: A; Subclass: 1
+Goal: Identity management and access management
+The project's importance: To guarantee that only authorised people can access allergic resources and information in the project, identity management and access control are essential. Attack/Vulnerability Threats from insiders and unauthorised access were mitigated. Access control and identity management procedures assist reduce the risk of data breaches and unauthorised activity by preventing wrongful individuals from accessing vital systems.
+
+Function; B  Sub-category 2
+Objective: Data safeguarding and encoding are essential for the project's goal. To safeguard sensitive information and uphold confidentiality and integrity all while the project, data security and encryption are crucial. Attack/Vulnerability Data breaches and ill-equipped information disclosed were mitigated.
+
+Function: Detect: Subclassification: 3
+Monitoring of Anomalies and Events is the goal.
+The project's importance: The project's systems and networks can be monitored for anomalies and occurrences to help identify shady dealings, odd behaviour, and potential security concerns.
+Attack/Vulnerability Mitigated: System invasions and malware infections. The project can detect and respond to abnormalities, signalling potential malware infections, unauthorised access attempts, or other security events, by watching and analysing system logs, network traffic, and user actions.
+
+Perform: subcategory :4
+Goal: Incident Management and Response
+Importance for the Project: Quickly responding to security issues, reducing their impact, and resuming regular operations depend on effective incident response and management.
+Attack/Vulnerability Successful cyberattacks and their effects have been mitigated.
+
+
+
+
+TASK 2&3
+Sure! Here are tables for different asset types, including Data assets, Software assets, Hardware assets, and Personnel assets, for your project:
+
+
+Asset Name	Description	Classification	Important Protections
+Consumer information	Confidential information	High Value	Confidentiality
+Income Source	Finance statement	High Value	Confidentiality
+Planning of project	Required documents	Medium Value	Availability
+
+Software Assets:
+Asset Name	Description	Important Protections
+Web Application	Developing server	Unrestricted access, 
+Database System	Data storage and retrieval	Data Encryption
+Communication system	Making interaction and cl	Privacy
+Clouding system	Data storage	Free to aces
+Hardware Assets:
+Asset Name	Description	Important Protections
+Server(system)	Client based applications	Face to Face interaction
+Network Devices	Routers, switches, firewalls	Access Control
+Storage Devices	Hard drives, backups	Data Encryption
+Security Cameras	Surveillance equipment	Physical Security
+
+
+
+
+Personnel Assets:
+Asset Name	Description	Important Protections
+System Administrators	Manage IT infrastructure	Client Control
+Makers	Maintaining Data or servers	Coding practices
+Project Manager	Oversees project activities	Security Awareness Training
+Data Observation	project information	Managing Efficiency
+
